@@ -1,4 +1,4 @@
-title:Snappy_wishlist
+title:Snappy's Wishlist
 description: This is my personal wishlist, with only a few weapons included.
-dimwishlist:item=1200824700&perks=1482024992,106909392,186337601#notes:seraph rounds add large range buff
-dimwishlist:item=1621657423&perks=2801223209,3429800428,3827198035,2450788523,4082225868,1639384016#notes:moving target for aim assist
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,2801223209,3827198035,2450788523,3350417888,4248210736,2323986101,4283235143,0,2285418970
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,2801223209,3429800428,588594999,4082225868,4248210736,2323986101,1639384016,0,2285418970
